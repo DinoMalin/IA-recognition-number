@@ -1,0 +1,5 @@
+étapes ia : 
+
+#1 : suite de nombres
+#2 : Reconnaissance d'images simples
+#3 : Fetch tous mes tweets et l'entraîner dessus
